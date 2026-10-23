@@ -17,13 +17,13 @@ Full-stack developer with a front-end focus. I build web apps end to end: Vue 3 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/fl0w3rs/lostCAD"><img src="https://raw.githubusercontent.com/fl0w3rs/lostCAD/master/docs/screenshots/02-police.png" alt="lostCAD" /></a>
-      <h4><a href="https://github.com/fl0w3rs/lostCAD">lostCAD</a></h4>
+      <h4><a href="https://github.com/fl0w3rs/lostCAD">lostCAD</a> · <sub>2021</sub></h4>
       Dispatch and police terminal system (CAD/MDT) for a GTA roleplay community. Every status change reaches all dispatchers and units instantly.<br/>
       <sub>Vue 3 · Quasar · TypeScript · Node.js · Socket.IO · MariaDB</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/fl0w3rs/console"><img src="https://raw.githubusercontent.com/fl0w3rs/console/master/docs/screenshots/02-mdt.png" alt="console" /></a>
-      <h4><a href="https://github.com/fl0w3rs/console">console</a></h4>
+      <h4><a href="https://github.com/fl0w3rs/console">console</a> · <sub>2020</sub></h4>
       The first version of that CAD, used in production by a live community: dispatch console, mobile data terminal, civilian records.<br/>
       <sub>PHP · Twig · MySQL · Node.js WebSocket server</sub>
     </td>
@@ -31,17 +31,17 @@ Full-stack developer with a front-end focus. I build web apps end to end: Vue 3 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/fl0w3rs/hello-southland"><img src="https://raw.githubusercontent.com/fl0w3rs/hello-southland/master/docs/screenshots/hero.jpg" alt="hello-southland" /></a>
-      <h4><a href="https://github.com/fl0w3rs/hello-southland">hello-southland</a></h4>
+      <h4><a href="https://github.com/fl0w3rs/hello-southland">hello-southland</a> · <sub>2021–2022</sub></h4>
       Community website: landing page and an application system with admin review.<br/>
       <sub>Vue 3 · Quasar · TypeScript · Node.js · Express</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/fl0w3rs/alderney"><img src="https://raw.githubusercontent.com/fl0w3rs/alderney/master/docs/screenshots/03-question.png" alt="alderney" /></a>
-      <h4><a href="https://github.com/fl0w3rs/alderney">alderney</a></h4>
+      <h4><a href="https://github.com/fl0w3rs/alderney">alderney</a> · <sub>2021</sub></h4>
       Online testing system: timed tests, result review and Discord notifications.<br/>
       <sub>PHP · Twig · RedBeanPHP · MySQL</sub>
     </td>
   </tr>
 </table>
 
-🔒 **Also building (private):** an automated trading system for crypto futures in Python, with a mean-reversion strategy, prop-firm risk rules and a web dashboard. It runs 24/7 on my own server.
+🔒 **Since 2026, private:** an automated trading system for crypto futures in Python, with a mean-reversion strategy, prop-firm risk rules and a web dashboard. It runs 24/7 on my own server.
